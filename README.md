@@ -2,8 +2,6 @@
 
 Class projects made during my second CS class! This time, I delve deeper into the world of programming in C++.
 
-*If you click on a project, you can see it's summary along with it's instructions below.*
-
 Some topics covered: 
 
 - CS1 Topics (Basic code such as variables, conditionals, loops, arrays, functions, etc)
